@@ -3,4 +3,4 @@
 
 ![LadybugHello](images/LadybugHello.jpeg)
 
-[Connection to my hello-world repo]([My CIS Website on UOregon.edu](http://pages.uoregon.edu/cdaley4/111/))
+[Connection to my hello-world repo](https://github.com/cdaley4/hello-world)
