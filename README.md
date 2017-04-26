@@ -1,9 +1,3 @@
-# Project Title
+# Project 2 - User Page
 
-One Paragraph of project description goes here.
-
-## Deployment
-
-As part of this project, we deployed our web app to [Zeit Now | Heroku | Cloud Foundry].
-
-[Here is the running app on Zeit Now](/.)
+Creating a User Page and and a project page on GitHub.com. This is our first user page so we are learning this skill now.
